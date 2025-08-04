@@ -1,5 +1,5 @@
 import React from 'react'
-import MainPage from './components/mainPage'
+import MainPage from './components/MainPage'
 import { Routes, Route } from 'react-router-dom'
 import SchoolWebsite from './components/SchoolWebsite'
 import AboutUs from './components/Pages/AboutUs'
