@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import MainPage from './mainPage'
+import MainPage from './MainPage'
 import AboutUs from './Pages/AboutUs'
 import CooperateTrainingProgram from './Navbar/CooperateTrainingProgram'
 import News from './Navbar/News'
