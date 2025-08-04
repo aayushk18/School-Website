@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import logo_image from '../../assets/img/Logo.jpg'
 import { NavLink } from 'react-router-dom';
-import { Menu,X } from 'lucide-react';
+import { Menu } from 'lucide-react';
 
 
 const Header = () => {
